@@ -1,33 +1,22 @@
 # 👋 About Me
 
-I am an aspiring IT professional actively building hands-on experience with the goal of starting my career in **IT Support** or as a **Security Operations Center (SOC) Analyst**. I am focused on developing strong technical fundamentals, practical troubleshooting skills, and a solid understanding of enterprise IT environments.
+I am an aspiring IT professional building hands-on experience with the goal of starting my career in **IT Support** or as a **SOC Analyst**. I am highly motivated to enter the field and gain real-world experience supporting users, systems, and networks.
 
-Currently, I am working on **Raspberry Pi–based home lab projects** to deepen my knowledge of systems administration, networking, and security concepts. I enjoy learning through hands-on experimentation and real-world problem solving.
+I am currently working on **Raspberry Pi home lab projects** to strengthen my practical skills in system administration, networking, and troubleshooting across Linux and Windows environments.
 
-## 🔧 What I’m Learning & Working On
-- Linux and Windows troubleshooting
-- Networking fundamentals (DNS, DHCP, IP addressing, routing basics)
-- Raspberry Pi home lab projects
-- Command-line tools and system administration
-- Basic security concepts and incident analysis fundamentals
+## 🔧 Current Projects & Learning
+- Deploying and managing **Pi-hole** for DNS filtering and network-wide ad blocking
+- Configuring **Tailscale** for secure remote access and private networking
+- Running **Plex Media Server** to understand service management, storage, and networking
+- Troubleshooting Linux and Windows systems
+- Studying computer science fundamentals through **Harvard’s CS50** course
 
-## 🧪 Home Lab & Projects
-- Raspberry Pi projects to practice networking, services, and system management
-- Experimenting with Linux distributions and desktop/server environments
-- Simulating common IT support troubleshooting scenarios
-
-## 🎯 Career Goals
-I am seeking an **entry-level IT role** that provides exposure to real-world systems and allows me to grow into areas such as:
-- IT Support / Help Desk
-- SOC Analyst
-- Systems or Network Administration
-
-My goal is to build a strong foundation in IT while continuously expanding into security-focused roles.
+## 🎯 Career Objective
+I am seeking an **entry-level IT role** where I can apply my hands-on lab experience, continue learning, and grow into more advanced IT or security-focused positions.
 
 ## 🚀 Fun Fact
-I am a **fast learner**, highly adaptable, and enjoy tackling new technical challenges.
+I am a fast learner, adaptable, and enjoy solving technical problems.
 
 ---
 
-📫 **Let’s Connect**
-- GitHub: Check out my repositories to see what I’m currently learning and building
+📫 **Check out my repositories** to follow my learning journey and projects.
